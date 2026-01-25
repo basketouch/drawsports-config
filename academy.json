@@ -3,7 +3,8 @@
     {
       "id": "vid_001",
       "title": "Presentación DrawSports",
-      "video_url": "https://vimeo.com/1154969310/875d7fcec6?share=copy&fl=sv&fe=ci",
+      "thumbnail_url": "https://tuservidor.com/thumb.jpg",
+      "video_url": "https://vimeo.com/1154969310",
       "action_type": "native_player"
     }
   ]
