@@ -3,8 +3,7 @@
     {
       "id": "vid_001",
       "title": "Básicos del Freeze Frame",
-      "thumbnail_url": "https://...",
-      "video_url": "https://...",
+      "video_url": "https://tuservidor.com/video.mp4",
       "action_type": "native_player"
     }
   ]
