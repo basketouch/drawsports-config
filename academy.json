@@ -2,9 +2,8 @@
   "academy_videos": [
     {
       "id": "vid_001",
-      "title": "Presentación DrawSports",
-      "thumbnail_url": "https://tuservidor.com/thumb.jpg",
-      "video_url": "https://vimeo.com/1154969310",
+      "title": "Presentación",
+      "video_url": "https://vimeo.com/1154969310/875d7fcec6",
       "action_type": "native_player"
     }
   ]
