@@ -2,8 +2,8 @@
   "academy_videos": [
     {
       "id": "vid_001",
-      "title": "Básicos del Freeze Frame",
-      "video_url": "https://vimeo.com/1154969310/875d7fcec6?share=copy&fl=sv&fe=ci",
+      "title": "Presentación DrawSports",
+      "video_url": "https://vimeo.com/1154969310/875d7fcec6",
       "action_type": "native_player"
     }
   ]
