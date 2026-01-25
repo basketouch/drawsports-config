@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "campaigns": [
+    {
+      "campaign_id": "comunidad_v1",
+      "title": "🎓 ¿Entrenas solo?",
+      "body": "Únete a mi Comunidad de entrenadores y comparte tus análisis.",
+      "button_text": "Saber más",
+      "url": "https://jorgelorenzo.es/comunidad",
+      "location": "home",
+      "gradient_colors": null,
+      "icon_url": null,
+      "is_active": true
+    },
+    {
+      "campaign_id": "thelab_export_v1",
+      "title": "Lleva tu análisis al siguiente nivel",
+      "body": "Únete a The Lab y aprende técnicas avanzadas de video análisis.",
+      "button_text": "Ver más",
+      "url": "https://jorgelorenzo.es/thelab",
+      "location": "export",
+      "gradient_colors": ["#FF6B35", "#C41E3A"],
+      "icon_url": null,
+      "is_active": true
+    }
+  ]
+}
