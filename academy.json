@@ -1,0 +1,11 @@
+{
+  "academy_videos": [
+    {
+      "id": "vid_001",
+      "title": "Básicos del Freeze Frame",
+      "thumbnail_url": "https://...",
+      "video_url": "https://...",
+      "action_type": "native_player"
+    }
+  ]
+}
