@@ -2,8 +2,44 @@
   "academy_videos": [
     {
       "id": "vid_001",
-      "title": "Presentación",
+      "title": "Presentación DrawSports",
+      "thumbnail_url": "https://github.com/basketouch/drawsports-config/blob/main/thumbs%3A.gitkeep/DrawSpoprts_Sistemas.png",
       "video_url": "https://vimeo.com/1154969310/875d7fcec6",
+      "action_type": "webview"
+    },
+    {
+      "id": "vid_002",
+      "title": "Tutorial Freeze Frame",
+      "thumbnail_url": "https://tuservidor.com/academy/thumb_freeze.jpg",
+      "video_url": "https://vimeo.com/XXXXXXXX/XXXXXXXX",
+      "action_type": "webview"
+    },
+    {
+      "id": "vid_003",
+      "title": "Exportar Clips",
+      "thumbnail_url": "https://tuservidor.com/academy/thumb_export.jpg",
+      "video_url": "https://vimeo.com/XXXXXXXX/XXXXXXXX",
+      "action_type": "webview"
+    },
+    {
+      "id": "vid_004",
+      "title": "Pizarra Táctica",
+      "thumbnail_url": "https://tuservidor.com/academy/thumb_pizarra.jpg",
+      "video_url": "https://vimeo.com/XXXXXXXX/XXXXXXXX",
+      "action_type": "webview"
+    },
+    {
+      "id": "vid_005",
+      "title": "Proyección Scouting",
+      "thumbnail_url": "https://tuservidor.com/academy/thumb_scouting.jpg",
+      "video_url": "https://vimeo.com/XXXXXXXX/XXXXXXXX",
+      "action_type": "webview"
+    },
+    {
+      "id": "vid_006",
+      "title": "Tips Avanzados",
+      "thumbnail_url": "https://tuservidor.com/academy/thumb_tips.jpg",
+      "video_url": "https://vimeo.com/XXXXXXXX/XXXXXXXX",
       "action_type": "webview"
     }
   ]
