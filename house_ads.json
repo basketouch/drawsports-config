@@ -3,9 +3,9 @@
   "campaigns": [
     {
       "campaign_id": "comunidad_v1",
-      "title": "🎓 ¿Entrenas solo?",
-      "body": "Únete a mi Comunidad de entrenadores y comparte tus análisis.",
-      "button_text": "Saber más",
+      "title": "🎓 ¿Entrenas solo?","Es el momento de compartir",
+      "body": "Únete a la Comunidad Jorge Lorenzo Coach para dejar de hacerlo.",
+      "button_text": "Saber más...",
       "url": "https://www.skool.com/jorge-lorenzo-coach/about",
       "location": "home",
       "gradient_colors": null,
