@@ -2,21 +2,21 @@
   "academy_videos": [
     {
       "id": "vid_001",
-      "title": "Presentación DrawSports",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_gris.png",
+      "title": "Importación Universal",
+      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/DrawSports_Sistemas.png",
       "video_url": "https://vimeo.com/1154969310/875d7fcec6",
       "action_type": "webview"
     },
     {
       "id": "vid_002",
-      "title": "Tutorial Freeze Frame",
+      "title": "Análisis y Marcaje (Tagging)",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_gris.png",
       "video_url": "",
       "action_type": "webview"
     },
     {
       "id": "vid_003",
-      "title": "Exportar Clips",
+      "title": "El "Freeze Frame"",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_gris.png",
       "video_url": "",
       "action_type": "webview"
@@ -30,14 +30,14 @@
     },
     {
       "id": "vid_005",
-      "title": "Proyección Scouting",
+      "title": "Modo Proyección (Vestuario)",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_gris.png",
       "video_url": "",
       "action_type": "webview"
     },
     {
       "id": "vid_006",
-      "title": "Tips Avanzados",
+      "title": "Exportación y Montaje",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_gris.png",
       "video_url": "",
       "action_type": "webview"
