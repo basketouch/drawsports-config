@@ -2,43 +2,43 @@
   "academy_videos": [
     {
       "id": "vid_001",
-      "title": "Importación Universal",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/DrawSports_Sistemas.png",
+      "title": "Universal Import",
+      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/1_Universal_Import.png",
       "video_url": "",
       "action_type": "webview"
     },
     {
       "id": "vid_002",
-      "title": "Análisis y Marcaje (Tagging)",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_gris.png",
+      "title": "Analysis & Tagging",
+      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/2_Analysis_&_Tagging.png",
       "video_url": "",
       "action_type": "webview"
     },
     {
       "id": "vid_003",
-      "title": "El Freeze Frame",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_gris.png",
+      "title": "Freeze Frame",
+      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/3_Freeze_Frame.png",
       "video_url": "",
       "action_type": "webview"
     },
     {
       "id": "vid_004",
-      "title": "Pizarra Táctica",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_gris.png",
+      "title": "Tactical Whiterboard",
+      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/4_Tactical_Whiterboard",
       "video_url": "",
       "action_type": "webview"
     },
     {
       "id": "vid_005",
-      "title": "Modo Proyección (Vestuario)",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_gris.png",
+      "title": "Projection Mode",
+      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/5_Projection_Mode.png",
       "video_url": "",
       "action_type": "webview"
     },
     {
       "id": "vid_006",
-      "title": "Exportación y Montaje",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_gris.png",
+      "title": "Export& Montage",
+      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/6_Export_&_Montage.png",
       "video_url": "",
       "action_type": "webview"
     }
