@@ -3,6 +3,8 @@
     {
       "id": "vid_001",
       "title": "Universal Import",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/1_Universal_Import.png",
       "video_url": "https://vimeo.com/1159775747/629fa00f4f?share=copy&fl=sv&fe=ci",
       "action_type": "webview"
@@ -10,6 +12,8 @@
     {
       "id": "vid_002",
       "title": "Analysis & Tagging",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/2_Analysis_&_Tagging.png",
       "video_url": "https://vimeo.com/1159776689/4b7ca7c141?share=copy&fl=sv&fe=ci",
       "action_type": "webview"
@@ -17,6 +21,8 @@
     {
       "id": "vid_003",
       "title": "Precision Seeking & Frame-by-Frame Control",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/3_Precision_Seeking_F_by_F_Control.png",
       "video_url": "https://vimeo.com/1160262048/dda5a1df1f?share=copy&fl=sv&fe=ci",
       "action_type": "webview"
@@ -24,6 +30,8 @@
     {
       "id": "vid_004",
       "title": "Tactical Whiterboard",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/4_Tactical_Whiterboard.png",
       "video_url": "",
       "action_type": "webview"
@@ -31,6 +39,8 @@
     {
       "id": "vid_005",
       "title": "Projection Mode",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/5_Projection_Mode.png",
       "video_url": "",
       "action_type": "webview"
@@ -38,6 +48,8 @@
     {
       "id": "vid_006",
       "title": "Export & Montage",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/6_Export_&_Montage.png",
       "video_url": "",
       "action_type": "webview"
@@ -47,6 +59,8 @@
     {
       "id": "n001",
       "title": "Esto es lo que te encontrarás en la Comunidad 🏀",
+      "subtitle": "Y mucho más contenido",
+      "subtitle_url": "Saber más",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/PNR_con_4_step_con_5.png",
       "video_url": "https://www.youtube.com/watch?v=LArLxsXpBzU",
       "action_type": "webview"
@@ -54,6 +68,8 @@
     {
       "id": "n002",
       "title": "Novedad 2",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_amarillo.png",
       "video_url": "",
       "action_type": "webview"
@@ -61,6 +77,8 @@
     {
       "id": "n003",
       "title": "Novedad 3",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_amarillo.png",
       "video_url": "",
       "action_type": "webview"
@@ -68,6 +86,8 @@
     {
       "id": "n004",
       "title": "Novedad 4",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_amarillo.png",
       "video_url": "",
       "action_type": "webview"
@@ -75,6 +95,8 @@
     {
       "id": "n005",
       "title": "Novedad 5",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_amarillo.png",
       "video_url": "",
       "action_type": "webview"
@@ -82,6 +104,8 @@
     {
       "id": "n006",
       "title": "Novedad 6",
+      "subtitle": "",
+      "subtitle_url": "",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_amarillo.png",
       "video_url": "",
       "action_type": "webview"
