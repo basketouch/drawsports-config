@@ -46,7 +46,7 @@
   "news_videos": [
     {
       "id": "n001",
-      "title": "Novedad 1",
+      "title": "Esto es lo que te encontrarás en la Comunidad 🏀",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/PNR_con_4_step_con_5.png",
       "video_url": "https://www.youtube.com/watch?v=LArLxsXpBzU",
       "action_type": "webview"
