@@ -62,8 +62,8 @@
       "subtitle": "Cada martes uno nuevo.",
       "subtitle_link_text": "Saber más",
       "subtitle_url": "https://www.skool.com/jorge-lorenzo-coach/about",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/PNR_con_4_step_con_5.png",
-      "video_url": "https://www.youtube.com/watch?v=LArLxsXpBzU",
+      "thumbnail_url": "",
+      "video_url": "https://www.youtube.com/watch?v=a8zn1kMjsEs",
       "action_type": "webview"
     },
     {
@@ -72,8 +72,8 @@
       "subtitle": "Cada jueves uno nuevo.",
       "subtitle_link_text": "Saber más",
       "subtitle_url": "https://www.skool.com/jorge-lorenzo-coach/about",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_amarillo.png",
-      "video_url": "https://www.youtube.com/watch?v=a8zn1kMjsEs",
+      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/PNR_con_4_step_con_5.png",
+      "video_url": "https://www.youtube.com/watch?v=LArLxsXpBzU",
       "action_type": "webview"
     },
     {
