@@ -37,8 +37,52 @@
     },
     {
       "id": "vid_006",
-      "title": "Export& Montage",
+      "title": "Export & Montage",
       "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/6_Export_&_Montage.png",
+      "video_url": "",
+      "action_type": "webview"
+    }
+  ],
+  "news_videos": [
+    {
+      "id": "n001",
+      "title": "Novedad 1",
+      "thumbnail_url": "",
+      "video_url": "",
+      "action_type": "webview"
+    },
+    {
+      "id": "n002",
+      "title": "Novedad 2",
+      "thumbnail_url": "",
+      "video_url": "",
+      "action_type": "webview"
+    },
+    {
+      "id": "n003",
+      "title": "Novedad 3",
+      "thumbnail_url": "",
+      "video_url": "",
+      "action_type": "webview"
+    },
+    {
+      "id": "n004",
+      "title": "Novedad 4",
+      "thumbnail_url": "",
+      "video_url": "",
+      "action_type": "webview"
+    },
+    {
+      "id": "n005",
+      "title": "Novedad 5",
+      "thumbnail_url": "",
+      "video_url": "",
+      "action_type": "webview"
+    },
+    {
+      "id": "n006",
+      "title": "Novedad 6",
+      "thumbnail_url": "",
       "video_url": "",
       "action_type": "webview"
     }
