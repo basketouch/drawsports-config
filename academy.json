@@ -58,12 +58,12 @@
   "news_videos": [
     {
       "id": "n001",
-      "title": "¿Cómo te explico ejercicios?",
+      "title": "Pase Interior y Salida: El Drill de Calentamiento (todos los martes uno nuevo en la comunidad)",
       "subtitle": "Cada martes uno nuevo.",
       "subtitle_link_text": "Saber más",
       "subtitle_url": "https://www.skool.com/jorge-lorenzo-coach/about",
       "thumbnail_url": "",
-      "video_url": "https://www.youtube.com/watch?v=a8zn1kMjsEs",
+      "video_url": "https://www.youtube.com/watch?v=Zq3YZ8S4UlY",
       "action_type": "webview"
     },
     {
@@ -88,12 +88,12 @@
     },
     {
       "id": "n004",
-      "title": "Novedad 4",
-      "subtitle": "",
+      "title": "Clinic FIBA China para 600 entrenadores",
+      "subtitle": "Te cuento mi experiencia en China",
       "subtitle_link_text": "Saber más",
       "subtitle_url": "",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_amarillo.png",
-      "video_url": "",
+      "thumbnail_url": "",
+      "video_url": "https://www.youtube.com/watch?v=J-Jbt-LXmRg",
       "action_type": "webview"
     },
     {
