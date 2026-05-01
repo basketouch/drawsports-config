@@ -81,7 +81,7 @@
       "title": "Contenido diferenciador.",
       "subtitle": "Game Plan Experience en la Comunidad.",
       "subtitle_link_text": "Saber más",
-      "subtitle_url": "https://www.youtube.com/watch?v=byw_6eGUkLA",
+      "subtitle_url": "https://www.skool.com/jorge-lorenzo-coach/about",
       "thumbnail_url": "",
       "video_url": "https://www.youtube.com/watch?v=byw_6eGUkLA",
       "action_type": "webview"
@@ -98,21 +98,21 @@
     },
     {
       "id": "n005",
-      "title": "Novedad 5",
+      "title": "Ataque contra Zona 3-2",
       "subtitle": "",
-      "subtitle_link_text": "Saber más",
-      "subtitle_url": "",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_amarillo.png",
-      "video_url": "",
+      "subtitle_link_text": "Cada semana un nuevo sistemas en la Comunidad",
+      "subtitle_url": "https://www.skool.com/jorge-lorenzo-coach/about",
+      "thumbnail_url": "",
+      "video_url": "https://www.youtube.com/watch?v=Y3jH8WBk0ZE",
       "action_type": "webview"
     },
     {
       "id": "n006",
-      "title": "Novedad 6",
+      "title": "Contenido de la Comunidad",
       "subtitle": "",
-      "subtitle_link_text": "Saber más",
-      "subtitle_url": "",
-      "thumbnail_url": "https://raw.githubusercontent.com/basketouch/drawsports-config/main/thumbs/Fondo_amarillo.png",
+      "subtitle_link_text": "7 días gratis en la Comunidad",
+      "subtitle_url": "https://www.skool.com/jorge-lorenzo-coach/about",
+      "thumbnail_url": "https://www.youtube.com/watch?v=kk3SI_mJ4Vo",
       "video_url": "",
       "action_type": "webview"
     }
